@@ -1,3 +1,7 @@
+PURPOSE:
+
+The N-Queens puzzle is placing N queens on a N by N chessboard such that no queens are attacking each other. This program will solve and print a solution. Program was written in C++. Utilization and manipulation of stack and vector.
+
 Build executable.
 
 	type "make"
